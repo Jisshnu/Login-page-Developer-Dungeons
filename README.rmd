@@ -1,0 +1,7 @@
+Hii
+
+I have just created the login page according to the figma file received. 
+Connected it with a wampp server which alloes only the admin to login inside the page.
+
+Attached screenshots as well.
+Given some more time, will be able to create a MERN full stack application.
